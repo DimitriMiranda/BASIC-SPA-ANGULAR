@@ -4,7 +4,7 @@ Esse Projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4. <br />
 
-## Conteudo aplicado
+## Conteúdo aplicado
  
  Uso Angular CLI <br />
  Conhecendo a estrutura de diretorios e arquitetura do Angular 15 <br />
